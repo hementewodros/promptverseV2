@@ -1,0 +1,15 @@
+# Node modules
+**/node_modules
+**/package-lock.json
+
+# Hardhat / build artifacts
+backend/artifacts
+backend/cache
+backend/node_modules
+
+# React build
+frontend/build
+frontend/node_modules
+
+# Environment variables
+*.env
