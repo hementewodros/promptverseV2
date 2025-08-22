@@ -36,6 +36,42 @@
       "artifacts": [
         "Lock"
       ]
+    },
+    "C:\\Users\\ShadyZ\\Documents\\personal-projects\\promptverseV2\\backend\\contracts\\PromptVoting.sol": {
+      "lastModificationDate": 1755842913639,
+      "contentHash": "8046dbf02ca5f3a0a58f6cb273eceeba",
+      "sourceName": "contracts/PromptVoting.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "PromptVoting"
+      ]
     }
   }
 }
